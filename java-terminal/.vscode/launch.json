@@ -12,6 +12,7 @@
         },
         {
             "type": "java",
+            "name": "AboutMe",
             "request": "launch",
             "mainClass": "AboutMe",
             "args": [
